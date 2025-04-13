@@ -3,7 +3,7 @@
 A financial dashboard to analyze income, expenses, savings, and financial trends using Power BI. The project provides insights into financial performance through interactive visualizations and key performance indicators (KPIs).
 
 ## Dashboard Preview
-![Finance Dashboard]([Finance-Dashboard.png](https://github.com/Mahdy-Wagdy/Finance-Dashboard/blob/main/Home.png)
+![Finance Dashboard](https://github.com/Mahdy-Wagdy/Finance-Dashboard/blob/main/Home.png)
 
 ## Tools Used
 - **Excel**: Used as the data source (`Finance Dataset.xlsx`).
